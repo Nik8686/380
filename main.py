@@ -91,7 +91,7 @@ VERIFY_HOLDERS = True        # إلا كاين Helius: تأكد من عدد ال
 # ---------------- AUTO TRADE (كلشي تقدر تبدلو هنا) ----------------
 AUTO_TRADE_ENABLED = False      # False = تنبيهات فقط بلا شراء
 DRY_RUN = False                # True = محاكاة بلا معاملات حقيقية (جرب بيها أول مرة)
-BUY_AMOUNT_SOL = 0.007         # حجم الصفقة
+BUY_AMOUNT_SOL = 0.01         # حجم الصفقة
 TAKE_PROFIT_PCT = 90.0        # جني الأرباح: +100% (x2)
 STOP_LOSS_PCT = 50.0           # وقف الخسارة الأولي: -50% من سعر الدخول
 TRAILING_STOP_PCT = 50.0       # Trailing stop: كيبيع إلا نزل السعر 50% من أعلى سعر وصلتو العملة (0 = معطل)
