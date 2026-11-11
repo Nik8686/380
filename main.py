@@ -89,7 +89,7 @@ FEE_RATE_FALLBACK = 0.0125   # إلا ما قدرناش نقراو الرسوم 
 VERIFY_HOLDERS = True        # إلا كاين Helius: تأكد من عدد الهولدرز الحقيقي قبل التنبيه
 
 # ---------------- AUTO TRADE (كلشي تقدر تبدلو هنا) ----------------
-AUTO_TRADE_ENABLED = True      # False = تنبيهات فقط بلا شراء
+AUTO_TRADE_ENABLED = False      # False = تنبيهات فقط بلا شراء
 DRY_RUN = False                # True = محاكاة بلا معاملات حقيقية (جرب بيها أول مرة)
 BUY_AMOUNT_SOL = 0.01         # حجم الصفقة
 TAKE_PROFIT_PCT = 90.0        # جني الأرباح: +100% (x2)
